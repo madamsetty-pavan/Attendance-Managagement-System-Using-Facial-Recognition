@@ -28,3 +28,5 @@ This project consists of 2 parts:
         - Login into the portal
         - Update and View Attendance for the day
         - Check the overall attendance percentage 
+
+Link to the research paper used to implement the facial recognition: https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf
