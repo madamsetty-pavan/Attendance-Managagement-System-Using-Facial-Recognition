@@ -24,7 +24,7 @@ This project consists of 2 parts:
          - Register new students into the database and train the algorithm with the new face against the student
          - View, Update and Delete the existing attendance records
      
-  2) Student: The student component is a GUI which helps to:
+   2) Student: The student component is a GUI which helps to:
         - Login into the portal
         - Update and View Attendance for the day
         - Check the overall attendance percentage 
