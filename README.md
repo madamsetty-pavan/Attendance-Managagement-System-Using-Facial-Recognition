@@ -12,4 +12,20 @@ of the students. The students can view and update their attendance. The system i
 Open Source image processing library and the interface is developed using Python Tkinter
 module. The Tkinter module is an open source module by which we can develop GUI screens
 hence, it is not vendor hardware nor software dependent. The OpenCV module used for image
-processing is interfaced using python.
+processing is interfaced using Python.
+
+
+This project consists of 2 parts:
+1) Admin
+2) Student
+
+   1) Admin: The admin component is a GUI which helps to:
+         - Create new student accounts
+         - Update existing student accounts and credentials
+         - Register new students into the database and train the algorithm with the new face against the student
+         - View, Update and Delete the existing attendance records
+     
+  2) Student: The student component is a GUI which helps to:
+        - Login into the portal
+        - Update and View Attendance for the day
+        - Check the overall attendance percentage 
